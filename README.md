@@ -1,3 +1,4 @@
+
 # Content Strategy Portfolio
 
 ## 👋 About Me
@@ -44,7 +45,6 @@
 ---
 
 ## 📊 Current Projects
-
 🔄 *Portfolio projects coming soon...*
 
 ### Upcoming Areas:
